@@ -1,2 +1,4 @@
 # Weather-Dataset
-My Python Based Project | Using Panda Framework | JUPYTER Notebook
+##### I'm working on a Python project involving a weather dataset. 
+##### The dataset has several functions like nunique() and unique(), value_counts(), getgroup(), rename(), isnull(), and notnull(). 
+##### I need to calculate the standard deviation of the 'Pressure' variable in the dataset, find all the unique values for 'Wind Speed', identify any null values in the dataset, compute the variance of 'Relative Humidity', and perform various other tasks. How can I help you with these specific tasks?
